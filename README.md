@@ -34,7 +34,7 @@ Top-level launcher:
 uv run python main.py --help
 ```
 
-### 3.1 Core USDR+ pipeline (default project)
+### 3.1 Core $U_{SDR+}$ pipeline (default project)
 
 ```bash
 uv run python main.py run
@@ -121,7 +121,7 @@ Notes:
 
 ## 5. Output Directories
 
-### 5.1 USDR+
+### 5.1 $U_{SDR+}$
 - Preprocessed: `preprocessed/usdr_plus`
 - Cache: `cache/usdr_plus`
 - CSV: `csv/usdr_plus/usdr_plus_final_results_constrained.csv`
