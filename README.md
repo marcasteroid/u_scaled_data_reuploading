@@ -1,6 +1,6 @@
-# $U_{SDR+}$ Quantum Machine Learning Pipelines
+# Quantum Machine Learning Pipeline for Quantum Kernel Regression
 
-Modular research codebase for MSc in Data Science thesis experiments in $U_{SDR+}$ quantum kernel regression.
+Modular research codebase for quantum kernel regression.
 
 This repository provides three runnable pipelines under one CLI launcher:
 - `usdr_plus` (core synthetic benchmark)
